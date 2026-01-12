@@ -61,10 +61,11 @@ curl -X POST "http://localhost:8000/recommendation" -H "Content-Type: applicatio
 
 ## Data
 
-The API uses `movies.csv` which contains movie metadata including title, genres, keywords, tagline, cast, and director.
+The API uses `movies.csv` which contains movie metadata including title, genres, keywords, tagline, cast, and director of several movies.
 
 ## Notes
 
 - The API performs fuzzy matching on movie titles using difflib.
 - Recommendations are based on the top 29 most similar movies (excluding the input movie).
+
 - CORS is enabled for cross-origin requests.
