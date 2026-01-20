@@ -9,7 +9,7 @@ A beautiful, modern movie recommendation web application that uses AI-powered co
 
 ## 🌐 Live Demo
 
-**🔗 [YOUR_DEPLOYED_URL_HERE](YOUR_DEPLOYED_URL_HERE)**
+**🔗 [TRY_IT_OUT_HERE](https://cinematch-caxq.onrender.com)**
 
 <!-- Replace YOUR_DEPLOYED_URL_HERE with your actual deployment URL after deploying -->
 
@@ -246,4 +246,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <p align="center">
   Made with ❤️ by CineMatch
+
 </p>
